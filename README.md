@@ -106,7 +106,3 @@ Reactivate user:
 
 
 For more actions, run `./confluence.py -h` or see the usage section above.
-
-## More info
-
-[Raymii.org](https://raymii.org)
